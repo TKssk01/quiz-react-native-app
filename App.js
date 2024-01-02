@@ -89,7 +89,7 @@ useEffect(() => {
         <View>
           {showOptions && (
             <View>
-              <Question question={selectedQuestions[currentQuestionIndex].question} />
+              <Question question={selectedQuestions[currentQuestionIndex].question} imageUri={selectedQuestions[currentQuestionIndex].imageUri} />
               {selectedQuestions[currentQuestionIndex].options.map((option, index) => (
                 <Option 
                   key={index} 

@@ -22,10 +22,11 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   image: {
-    width: 100, // 画像の幅
-    height: 100, // 画像の高さ
-    marginBottom: 10, // テキストとの間隔
-  },
+    alignSelf: 'center',
+    width: 100,
+    height: 100,  
+    marginBottom: 10   
+  }
 });
 
 export default Question;
