@@ -1,0 +1,162 @@
+[
+  {
+    "question": "React Nativeは何に使用されますか?",
+    "options": ["Web開発", "ネイティブアプリ開発", "データサイエンス", "ゲーム開発"],
+    "correctIndex": 1,
+    "explanation": "React Nativeは、iOSとAndroidの両方のネイティブアプリを構築するために使用されるフレームワークです。",
+    "imageUri": "/Users/takahiro/quiz-react-native-app/assets/splash.png"
+  },
+  {
+    "question": "日本の首都はどこですか?",
+    "options": ["大阪", "京都", "東京", "福岡"],
+    "correctIndex": 2,
+    "explanation": "東京は日本の首都で、最も人口が多い都市です。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "次のうち、最も高い山はどれですか?",
+    "options": ["富士山", "キリマンジャロ", "エベレスト", "エルブルス"],
+    "correctIndex": 2,
+    "explanation": "エベレスト山は標高8,848メートルで、世界で最も高い山です。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "ピザはどの国の料理ですか?",
+    "options": ["アメリカ", "イタリア", "スペイン", "フランス"],
+    "correctIndex": 1,
+    "explanation": "ピザはイタリア発祥の料理で、世界中で人気があります。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "二酸化炭素の化学式は何ですか?",
+    "options": ["CO", "CO2", "C2O", "C2O2"],
+    "correctIndex": 1,
+    "explanation": "二酸化炭素の化学式はCO2で、炭素1つに酸素が2つ結びついています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "ハリーポッターシリーズの著者は誰ですか?",
+    "options": ["J.K.ローリング", "J.R.R.トールキン", "スティーブン・キング", "アガサ・クリスティ"],
+    "correctIndex": 0,
+    "explanation": "J.K.ローリングはハリーポッターシリーズの著者で、全世界で広く読まれています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "コンピュータのCPUは何の略ですか?",
+    "options": ["Central Process Unit", "Computer Personal Unit", "Central Processing Unit", "Central Processor Unit"],
+    "correctIndex": 2,
+    "explanation": "CPUはCentral Processing Unitの略で、コンピュータの主要な処理を行う部分です。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "光の速さは秒速何キロメートルですか?",
+    "options": ["約30万", "約300万", "約3000", "約3万"],
+    "correctIndex": 0,
+    "explanation": "光の速さは約30万キロメートル/秒で、これは宇宙の基本的な定数の一つです。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "次のうち、Linuxオペレーティングシステムを開発したのは誰ですか?",
+    "options": ["ビル・ゲイツ", "スティーブ・ジョブズ", "リーナス・トーバルズ", "マーク・ザッカーバーグ"],
+    "correctIndex": 2,
+    "explanation": "リーナス・トーバルズはLinuxカーネルを開発しました。Linuxは無料で使えるオープンソースのOSです。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "HTMLでページのタイトルを指定するタグはどれですか?",
+    "options": ["<body>", "<title>", "<header>", "<head>"],
+    "correctIndex": 1,
+    "explanation": "<title>タグは、ブラウザのタブに表示されるページのタイトルを指定するために使われます。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "Pythonプログラミング言語はどの年にリリースされましたか?",
+    "options": ["1989年", "1991年", "1995年", "2000年"],
+    "correctIndex": 1,
+    "explanation": "Pythonは1991年にグイド・ヴァン・ロッサムによってリリースされました。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "地球上で最も大きな海は何ですか?",
+    "options": ["インド洋", "太平洋", "大西洋", "南極海"],
+    "correctIndex": 1,
+    "explanation": "太平洋は地球上で最も大きな海であり、地球の表面積の約30%を占めています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "国際連合（UN）の本部はどこにありますか?",
+    "options": ["ニューヨーク", "ジュネーブ", "パリ", "ロンドン"],
+    "correctIndex": 0,
+    "explanation": "国際連合の本部はアメリカ合衆国のニューヨークにあります。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },{
+    "question": "Pythonプログラミング言語はどの年にリリースされましたか?",
+    "options": ["1989年", "1991年", "1995年", "2000年"],
+    "correctIndex": 1,
+    "explanation": "Pythonは1991年にグイド・ヴァン・ロッサムによってリリースされました。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "地球上で最も大きな海は何ですか?",
+    "options": ["インド洋", "太平洋", "大西洋", "南極海"],
+    "correctIndex": 1,
+    "explanation": "太平洋は地球上で最も大きな海であり、地球の表面積の約30%を占めています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "国際連合（UN）の本部はどこにありますか?",
+    "options": ["ニューヨーク", "ジュネーブ", "パリ", "ロンドン"],
+    "correctIndex": 0,
+    "explanation": "国際連合の本部はアメリカ合衆国のニューヨークにあります。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "ビタミンCが豊富な果物はどれですか?",
+    "options": ["バナナ", "リンゴ", "オレンジ", "ブドウ"],
+    "correctIndex": 2,
+    "explanation": "オレンジはビタミンCが豊富で知られています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "2020年東京オリンピックの新しい開催年は何年ですか?",
+    "options": ["2021年", "2022年", "2023年", "2024年"],
+    "correctIndex": 0,
+    "explanation": "2020年東京オリンピックは新型コロナウイルスの影響で2021年に延期されました。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "世界で最も話されている言語は何ですか?",
+    "options": ["英語", "中国語", "スペイン語", "アラビア語"],
+    "correctIndex": 1,
+    "explanation": "話者の数に基づくと、中国語が世界で最も多くの人によって話されています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "日本で最初に建設された城はどこですか?",
+    "options": ["大阪城", "熊本城", "松本城", "姫路城"],
+    "correctIndex": 3,
+    "explanation": "姫路城は日本の城郭建築の傑作として知られ、国宝に指定されています。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "日本の元号で「平成」の次に来たのは何ですか?",
+    "options": ["昭和", "大正", "令和", "明治"],
+    "correctIndex": 2,
+    "explanation": "平成の次の元号は「令和」で、2019年5月から使われ始めました。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "「GUI」コンピューター用語の正しい意味は何ですか?",
+    "options": ["General User Interface", "Graphical User Interface", "General Unique Identifier", "Graphical Unique Identifier"],
+    "correctIndex": 1,
+    "explanation": "GUIはGraphical User Interfaceの略で、ユーザーがグラフィカルな要素を通じてコンピューターと対話できるようにするシステムです。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  },
+  {
+    "question": "次のうち、最も早く発明されたプログラミング言語はどれですか?",
+    "options": ["C", "FORTRAN", "Pascal", "Lisp"],
+    "correctIndex": 1,
+    "explanation": "FORTRANは1950年代に開発された最初の高水準プログラミング言語の一つです。",
+    "imageUri": "https://ascii.jp/img/2023/05/01/3531840/l/f3cf566db48c40e1.png"
+  }
+]
